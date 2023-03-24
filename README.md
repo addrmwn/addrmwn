@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adi Darmawan</h1>
 <h3 align="center">A student who wants to be a developer on a website</h3>
 
-- 🔭 I’m currently working on [MBSID ( Mikrotik Billing System )](https://github.com/addrmwn/mbsid)
+- 🔭 I’m currently working on [MBS ( Mikrotik Billing System )](https://github.com/addrmwn/mbs)
 
 - 🌱 I’m currently learning **PHP, Mysql, etc**
 
-- 👯 I’m looking to collaborate on [MBSID ( Mikrotik Billing System )](https://github.com/addrmwn/mbsid)
+- 👯 I’m looking to collaborate on [MBS ( Mikrotik Billing System )](https://github.com/addrmwn/mbs)
 
-- 🤝 I’m looking for help with [MBSID ( Mikrotik Billing System )](https://github.com/addrmwn/mbsid)
+- 🤝 I’m looking for help with [MBS ( Mikrotik Billing System )](https://github.com/addrmwn/mbs)
 
 - 📫 How to reach me **adarmawan106@gmail.com**
 
