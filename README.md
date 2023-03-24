@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP, Mysql, etc**
 
-- 👯 I’m looking to collaborate on [MBS ( Mikrotik Billing System )](https://github.com/addrmwn/mbs)
-
 - 🤝 I’m looking for help with [MBS ( Mikrotik Billing System )](https://github.com/addrmwn/mbs)
 
 - 📫 How to reach me **adarmawan106@gmail.com**
